@@ -1,73 +1,31 @@
-### Hi there 👋
-
 [![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
 
 Hey there 👋
 
-I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m Magnus a creative developer with with a passion for both software engineering and UI design. I make it my mission to translate user-focused designs into pixel-perfect apps that run blazing fast.
 
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
+## ✨ Highlighted Project
 
-## 📝 Latest Blog Posts
+### Find Xur for Android
+<img src="https://play-lh.googleusercontent.com/9_lkEMdrRr7INc76XZRk5b0SA2Ff3zqZtTN3sFxvn3tGMZMAb9e4cxDsvFbHagrYDLU=w2560-h1600" alt="Find Xur screenshot 1" width="200"/> <img src="https://play-lh.googleusercontent.com/MRFPIaKwMivMdmhYKlVq0h6lmzNVdF6_xbWDO_IQTAqteWDnJSmE3_RJV-OuTirpeA=w2560-h1600" alt="Find Xur screenshot 1" width="200"/> <img src="https://play-lh.googleusercontent.com/XUs23XTrI93mvh_7FW5JYjW8uO_zmkpkg1ttFJdvNA69Yn4sd4BQeuUDLc512xS_hXeH=w2560-h1600" alt="Find Xur screenshot 1" width="200"/> <img src="https://play-lh.googleusercontent.com/SGIta1vddD1ubWGh1tXtDELvp4Jk132rUpCGcKcabLshBnX3tZTfuXFlCFUbVwqvzPg=w2560-h1600" alt="Find Xur screenshot 1" width="200"/>
 
-<br>
+**In this project i wanted to try and create the same app using two different languages and frameworks, Dart/Flutter and Swift/SwiftUI. This is the app developed using Flutter and written with Dart.**
 
-<!-- BLOG-POST-LIST:START -->
-- [Enable Autocomplete for Tailwind CSS in VSCode](https://braydoncoyer.dev/blog/enable-autocomplete-for-tailwind-css-in-vscode)
-- [What Makes a Unit Test Valuable?](https://braydoncoyer.dev/blog/what-makes-a-unit-test-valuable)
-- [You Don&#39;t Need a CS Degree to Land a Web Development Job](https://braydoncoyer.dev/blog/you-don't-need-a-cs-degree-to-land-a-web-development-job)
-- [The Powerful CSS not Selector](https://braydoncoyer.dev/blog/the-powerful-css-not-selector)
-- [How to Enable Preview Mode in Next.js for your CMS](https://braydoncoyer.dev/blog/how-to-enable-preview-mode-in-next.js-for-your-cms)
-<!-- BLOG-POST-LIST:END -->
+The challange was to get the app to look and feel exactly the same even when using two different frameworks. 
 
-<br>
+I also used this project to gain further experience in both creating and connecting to different API's. This app connects to the API for the game Destiny 2 developed by Bungie. The Bungie API is massive and quite overwhelming at first, but this tickled my curiosity and is part of the reason i chose to do this project.
 
-## 📌 Pinned Repositories
+**Android version:**
+Source Code: https://github.com/magnusws/Find-Xur-for-Android/
+Live demo: https://play.google.com/store/apps/details?id=com.mawaso.find_xur&hl=en_US&gl=US
 
-<br>
+**iOS version:**
+Source Code: https://github.com/magnusws/Find-Xur-for-iOS/
+Live demo: https://apps.apple.com/us/app/find-xur/id1494638784
 
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/braydoncoyer/pomegradient">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/braydoncoyer/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/braydoncoyer/officeapi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
-<br>
-<br>
+This app displays where the hidden character/vendor Xur is located in the game, and what items he is selling. As the characters location is hidden in the game (allso in the API) i had to develop a small backend/api to manually update and fetch his location in the app. His inventory and data related to all the items he is selling is fetched from Bungies API. The app allso counts down to his arrival, and the user can allso opt to get a push notification describing where he is when he arrives. To add some extra flair to give myself a real challange replicating this app in both frameworks it also displays animated 3D models of each planet he appears on.
 
 ## 💼 Skills
 
