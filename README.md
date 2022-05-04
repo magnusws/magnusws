@@ -25,11 +25,9 @@ Source Code: https://github.com/magnusws/Find-Xur-for-iOS/
 
 Live demo: https://apps.apple.com/us/app/find-xur/id1494638784
 
-This app displays where the hidden character/vendor Xur is located in the game, and what items he is selling. As the characters location is hidden in the game (allso in the API) i had to develop a small backend/api to manually update and fetch his location in the app. His inventory and data related to all the items he is selling is fetched from Bungies API. The app allso counts down to his arrival, and the user can allso opt to get a push notification describing where he is when he arrives. To add some extra flair to give myself a real challange replicating this app in both frameworks it also displays animated 3D models of each planet he appears on.
-
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
