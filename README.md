@@ -17,6 +17,14 @@ I’m Magnus, a creative developer with with a passion for both software enginee
 ![](https://img.shields.io/badge/code-MongoDB-blue)
 ![](https://img.shields.io/badge/code-MySQL-blue)
 
+### Other skills
+
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
+
 ## ✨ Highlighted Project
 
 ### Find Xur for Destiny 2
@@ -39,19 +47,3 @@ Live demo: https://play.google.com/store/apps/details?id=com.mawaso.find_xur&hl=
 Source Code: https://github.com/magnusws/Find-Xur-for-iOS/
 
 Live demo: https://apps.apple.com/us/app/find-xur/id1494638784
-
-<details>
-<summary>More Skills</summary>
-
-<br>
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
-
-</details>
-
-<br>
-
