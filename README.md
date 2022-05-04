@@ -1,10 +1,6 @@
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
-
 Hey there 👋
 
-I’m Magnus a creative developer with with a passion for both software engineering and UI design. I make it my mission to translate user-focused designs into pixel-perfect apps that run blazing fast.
+I’m Magnus, a creative developer with with a passion for both software engineering and UI design. I make it my mission to translate user-focused designs into pixel-perfect apps that run blazing fast.
 
 ## ✨ Highlighted Project
 
