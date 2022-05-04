@@ -4,26 +4,26 @@ I’m Magnus, a creative developer with a passion for both software engineering 
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/code-C++-blue)
-![](https://img.shields.io/badge/code-Python-blue)
-![](https://img.shields.io/badge/code-Swift-blue)
-![](https://img.shields.io/badge/code-SwiftUI-blue)
-![](https://img.shields.io/badge/code-Dart-blue)
-![](https://img.shields.io/badge/code-Flutter-blue)
-![](https://img.shields.io/badge/code-JavaScript-blue)
-![](https://img.shields.io/badge/code-React-blue)
-![](https://img.shields.io/badge/code-Express-blue)
-![](https://img.shields.io/badge/code-node.js-blue)
-![](https://img.shields.io/badge/code-MongoDB-blue)
-![](https://img.shields.io/badge/code-MySQL-blue)
+![](https://img.shields.io/badge/code-C++-green)
+![](https://img.shields.io/badge/code-Python-green)
+![](https://img.shields.io/badge/code-Swift-green)
+![](https://img.shields.io/badge/code-SwiftUI-green)
+![](https://img.shields.io/badge/code-Dart-green)
+![](https://img.shields.io/badge/code-Flutter-green)
+![](https://img.shields.io/badge/code-JavaScript-green)
+![](https://img.shields.io/badge/code-React-green)
+![](https://img.shields.io/badge/code-Express-green)
+![](https://img.shields.io/badge/code-node.js-green)
+![](https://img.shields.io/badge/code-MongoDB-green)
+![](https://img.shields.io/badge/code-MySQL-green)
 
 ### Other skills
 
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=green)
+![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=green)
+![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=green)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=green)
+![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=green)
 
 ## ✨ Highlighted Project
 
