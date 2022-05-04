@@ -1,6 +1,6 @@
 Hey there 👋
 
-I’m Magnus, a creative developer with with a passion for both software engineering and UI design. I make it my mission to translate user-focused designs into pixel-perfect apps that run blazing fast.
+I’m Magnus, a creative developer with a passion for both software engineering and UI design. I have made it my mission to translate user-focused designs into pixel-perfect apps that run blazing fast.
 
 ## 💼 Skills
 
