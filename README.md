@@ -32,13 +32,13 @@ I’m Magnus, a creative developer with a passion for both software engineering 
 
 **In this project i wanted to try and create the same app using two different languages and frameworks, Dart/Flutter and Swift/SwiftUI.**
 
-**Android version created with Flutter:**
+**Created with Flutter:**
 
 Source Code: https://github.com/magnusws/Find-Xur-for-Android/
 
 Live demo: https://play.google.com/store/apps/details?id=com.mawaso.find_xur&hl=en_US&gl=US
 
-**iOS version created with SwiftUI:**
+**Created with SwiftUI:**
 
 Source Code: https://github.com/magnusws/Find-Xur-for-iOS/
 
