@@ -27,7 +27,7 @@ Live demo: https://apps.apple.com/us/app/find-xur/id1494638784
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/code-c++-blue)
 ![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
