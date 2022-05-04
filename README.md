@@ -4,7 +4,7 @@ I’m Magnus, a creative developer with a passion for software engineering and U
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-C++-green) ![](https://img.shields.io/badge/Code-Python-green) ![](https://img.shields.io/badge/Code-Swift-green) ![](https://img.shields.io/badge/Code-SwiftUI-green) ![](https://img.shields.io/badge/Code-Dart-green) ![](https://img.shields.io/badge/Code-Flutter-green) ![](https://img.shields.io/badge/Code-JavaScript-green) ![](https://img.shields.io/badge/Code-React-green) ![](https://img.shields.io/badge/Code-Express-green) ![](https://img.shields.io/badge/Code-node.js-green) ![](https://img.shields.io/badge/Code-MongoDB-green) ![](https://img.shields.io/badge/Code-MySQL-green)
+![](https://img.shields.io/badge/Code-C++-green) ![](https://img.shields.io/badge/Code-Python-green) ![](https://img.shields.io/badge/Code-Swift-green) ![](https://img.shields.io/badge/Code-SwiftUI-green) ![](https://img.shields.io/badge/Code-Dart-green) ![](https://img.shields.io/badge/Code-Flutter-green) ![](https://img.shields.io/badge/Code-JavaScript-green) ![](https://img.shields.io/badge/Code-React-green) ![](https://img.shields.io/badge/Code-Express-green) ![](https://img.shields.io/badge/Code-Node.js-green) ![](https://img.shields.io/badge/Code-MongoDB-green) ![](https://img.shields.io/badge/Code-MySQL-green)
 
 ### Other skills
 
