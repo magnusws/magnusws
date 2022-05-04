@@ -32,9 +32,7 @@ I’m Magnus, a creative developer with a passion for both software engineering 
 
 **In this project i wanted to try and create the same app using two different languages and frameworks, Dart/Flutter and Swift/SwiftUI.**
 
-The challange was to get the app to look and feel exactly the same even when using two different frameworks. 
-
-I also used this project to gain further experience in both creating and connecting to different API's. This app connects to the API for the game Destiny 2 developed by Bungie. The Bungie API is massive and quite overwhelming at first, but this tickled my curiosity and is part of the reason i chose to do this project.
+### Learn more:
 
 **Android version:**
 
